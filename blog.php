@@ -1,0 +1,36 @@
+<?php include('header.php'); ?>
+
+
+
+<div class="container">
+    <div id="300" class="blog col-md-12">
+        <img src="img/300.jpg" alt="picture">
+        <h3>Mucho gusto, amigos</h3>
+        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p>Cras justo odio, dapibus ac facilisis in tellus ac cursus commodoapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursus </p>
+    </div>
+    <div id="200" class="blog col-md-12">
+        <img src="img/200.jpg" alt="picture">
+        <h3>Yummi, yummi</h3>
+        <p>Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p>Donec sed odio dui tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursus </p>
+    </div>
+    <div id="100" class="blog col-md-12">
+        <img src="img/100.jpg" alt="picture">
+        <h3>Fairytales</h3>
+        <p>Osyte justo sit amet risus. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. </p>
+        <p>Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodoapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursus </p>
+    </div>
+    <div id="400" class="blog col-md-12">
+        <img src="img/400.jpg" alt="picture">
+        <h3>Baila, morena</h3>
+        <p>Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.Donec sed odio dui. Cras justo odio, dapibus ac facilisis in tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p>Donec sed odio dui tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursusapibus ac facilisis in tellus ac cursus </p>
+    </div>
+</div>
+    
+
+<?php include('footer.php'); ?>
+
+
